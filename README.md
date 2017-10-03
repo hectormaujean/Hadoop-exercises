@@ -1,7 +1,6 @@
-# Hadoop-exercises
-***
-***
-***
+# Hadoop-exercises  
+
+
 ### Array transposer
 ***
 Open the file through **node** using the following line of command:
